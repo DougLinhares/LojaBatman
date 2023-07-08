@@ -1,0 +1,108 @@
+body {
+  margin: 0px;
+  font-family: Tahoma;
+}
+
+.secao {
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.topo {
+  background-color: black;
+}
+
+.topo img {
+  width: 220px;
+}
+
+.paragrafo {
+  margin: 30px auto;
+  text-align: center;
+}
+
+.link {
+  color: #fff;
+  text-decoration: none;
+  border-bottom: 1px solid #fff;
+  margin: 0 15px;
+  font-size: 20px;
+}
+
+h3 {
+  font-size: 23px;
+}
+
+.secao-paragrafo {
+  line-height: 30px;
+  width: 400px;
+  margin: auto;
+  text-align: justify;
+}
+
+.historia,
+.localizacao {
+  background-color: #f1f29c;
+}
+
+.historia {
+  padding-bottom: 40px;
+}
+
+h4 {
+  font-size: 18px;
+}
+.imagem {
+  width: 220px;
+}
+
+.lista {
+  width: 400px;
+  margin: auto;
+}
+
+.item {
+  line-height: 26px;
+  font-size: 19px;
+  text-align: left;
+}
+.link-envio {
+  border: 1px solid black;
+  padding: 5px;
+  border-radius: 20px;
+  color: yellow;
+  background-color: black;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.amarelo {
+  color: #2c2d01;
+}
+
+.localizacao p {
+  color: yellow;
+  border: 1px solid black;
+  width: 500px;
+  margin: 20px auto;
+  background-color: black;
+  padding: 5px;
+}
+
+.localizacao ul {
+  width: 400px;
+  margin: auto;
+  list-style: none;
+}
+
+.localizacao li {
+  margin-top: 10px;
+}
+
+.localizacao a {
+  color: #fff;
+  background-color: black;
+  padding: 1px 5px;
+  text-decoration: none;
+}
